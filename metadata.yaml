@@ -1,0 +1,31 @@
+_repo: Nuvele_64597
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Caragiale, I. L. (Ion Luca)
+    alias: Caragiale, Ion Luca
+    birthdate: 1852
+    deathdate: 1912
+    gutenberg_agent_id: '39773'
+    url: http://www.gutenberg.org/2009/agents/39773
+    wikipedia:
+    - https://ro.wikipedia.org/wiki/Ion_Luca_Caragiale
+    - https://en.wikipedia.org/wiki/Ion_Luca_Caragiale
+description: ''
+gutenberg_issued: '2021-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64597'
+language: ro
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PC'
+- !lcsh 'Romanian fiction'
+- !lcsh 'Short stories, Romanian'
+- GITenberg
+tableOfContents: Păcat... -- In vreme de răsboiu -- Kir Ianùlea -- La hanul lui Mânjoală
+  -- O făclie de Paște.
+title: Nuvele
+url: http://www.gutenberg.org/ebooks/64597
