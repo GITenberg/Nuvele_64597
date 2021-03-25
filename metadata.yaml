@@ -1,5 +1,8 @@
 _repo: Nuvele_64597
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Caragiale, I. L. (Ion Luca)
@@ -12,6 +15,8 @@ creator:
     - https://ro.wikipedia.org/wiki/Ion_Luca_Caragiale
     - https://en.wikipedia.org/wiki/Ion_Luca_Caragiale
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64597#Nuvele
 gutenberg_issued: '2021-02-19'
 gutenberg_type: Text
 identifiers:
